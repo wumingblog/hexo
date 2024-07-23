@@ -14,6 +14,7 @@ blogger:
 navbar:
   visiable: always # always, auto
   logo: # choose [img] or [icon + title]
+    logo: 
     icon: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
     title: 无名博客
   menu:
