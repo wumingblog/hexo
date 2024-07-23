@@ -34,7 +34,6 @@ navbar:
     - name: 归档
       icon: fa-solid fa-archive
       url: archives/
-  search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
   
 ############################### Cover ############################### > start
