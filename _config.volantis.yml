@@ -71,7 +71,7 @@ site_footer:
   analytics: >
     <a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img height="18px" src="https://boringbay.com/api/badge/wuminboke.site"></img></a>
   # site copyright
-  copyright: '(CC BY-NC-SA 4.0)'
+  copyright: '(CC BY-NC-SA 4.0) For my avatar is licensed under CC BY-NC-ND 4.0'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
   moe-icp: "<a href=\"https://icp.gov.moe/?keyword=20245354\" target=\"_blank\">萌ICP备20245354号</a>"
