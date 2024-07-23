@@ -14,10 +14,10 @@ sidebar:
       class: blogger
       display: [desktop] # [desktop, mobile]
       avatar: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
-      shape: circle
       title: 无名博客
       subtitle: 一个无聊的人罢了~
       jinrishici: false
+      social: false
   
 ############################### Navigation Bar ############################### > start
 # 注意事项：建议规范全站路径 URL 最后带一个 "/" 例如 "about/"
