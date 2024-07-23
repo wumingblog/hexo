@@ -32,7 +32,7 @@ comments:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [license, info, copyright]
+  layout: [source, analytics, copyright]
   # site source
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using busuanzi
