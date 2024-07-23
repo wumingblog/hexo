@@ -22,7 +22,7 @@ sidebar:
 ############################### Navigation Bar ############################### > start
 # 注意事项：建议规范全站路径 URL 最后带一个 "/" 例如 "about/"
 navbar:
-  visiable: auto # always, auto
+  visiable: always # always, auto
   logo: # choose [img] or [icon + title]
     img:
     icon: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
