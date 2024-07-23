@@ -46,7 +46,7 @@ cover:
 comments:
   title: <i class='fa-solid fa-comments'></i> 评论
   subtitle:
-  service: artalk
+  service: utterances
   # 可选评论系统 #
   
   # utterances
