@@ -69,7 +69,7 @@ comments:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [source, analytics, copyright, moe-icp]
+  layout: [source, analytics, copyright, moe-icp, feed]
   # site source
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using busuanzi
@@ -80,6 +80,7 @@ site_footer:
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
   moe-icp: "<a href=\"https://icp.gov.moe/?keyword=20245354\" target=\"_blank\">萌ICP备20245354号</a>"
+  feed: "<a href=\"https://wuminboke.site/atom.xml\">Feed(Atom.xml)</a>"
 ############################### Site Footer ############################### > end
 
 ######## Plugins to optimize the experience:
