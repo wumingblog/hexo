@@ -34,6 +34,9 @@ navbar:
     - name: 归档
       icon: fa-solid fa-archive
       url: archives/
+    - name: 赞助
+      icon: fa-brands fa-alipay
+      url: https://wuminboke.site/2024/07/23/Misc/#赞助
   search: 搜索不可用...
 ############################### Navigation Bar ############################### > end
   
