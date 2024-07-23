@@ -12,7 +12,7 @@ sidebar:
   widget_library:
     blogger:
       class: blogger
-      display: [desktop，mobile] # [desktop, mobile]
+      display: [desktop] # [desktop, mobile]
       avatar: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
       shape: circle
       title: 无名博客
