@@ -39,7 +39,7 @@ article:
       # ----------------
       # 打赏组件 (for layout: post/docs)
       donate:
-        enable: false
+        enable: true
         images:
           - https://bu.dusays.com/2024/07/23/669f9a2d83d4d.png #Stripe
   
