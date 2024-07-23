@@ -4,7 +4,7 @@ dns_prefetch:
   
 sidebar:
   # 主页、分类、归档等独立页面
-  for_page: [bloggerde]
+  for_page: [blogger]
   # layout: docs/post 这类文章页面
   for_post: [blogger, toc]
 
