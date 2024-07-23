@@ -7,14 +7,15 @@ sidebar:
   for_page: [blogger]
   # layout: docs/post 这类文章页面
   for_post: [blogger, toc]
-
-blogger:
-  class: blogger
-  display: [desktop，mobile] # [desktop, mobile]
-  avatar: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
-  title: 无名博客
-  subtitle: 一个无聊的人罢了~
-  jinrishici: false
+  
+widget_library:
+  blogger:
+    class: blogger
+    display: [desktop，mobile] # [desktop, mobile]
+    avatar: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
+    title: 无名博客
+    subtitle: 一个无聊的人罢了~
+    jinrishici: false
   
 ############################### Navigation Bar ############################### > start
 # 注意事项：建议规范全站路径 URL 最后带一个 "/" 例如 "about/"
