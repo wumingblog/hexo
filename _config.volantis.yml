@@ -19,3 +19,89 @@ sidebar:
       subtitle: 一个无聊的人罢了~
       jinrishici: false
   
+############################### Navigation Bar ############################### > start
+# 注意事项：建议规范全站路径 URL 最后带一个 "/" 例如 "about/"
+navbar:
+  visiable: always # always, auto
+  logo: # choose [img] or [icon + title]
+    logo: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
+  menu:
+    - name: 博客
+      icon: fa-solid fa-rss
+      url: /
+    - name: 归档
+      icon: fa-solid fa-archive
+      url: archives/
+    - name: 友链
+      icon: fa-solid fa-link
+      url: friends/
+    - name: 关于
+      icon: fa-solid fa-info-circle
+      url: about/
+  search: Search...   # Search bar placeholder
+############################### Navigation Bar ############################### > end
+  
+############################### Cover ############################### > start
+cover:
+  height_scheme:  # full, half
+  layout_scheme: search # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
+
+############################### Comments ############################### > start
+comments:
+  title: <i class='fa-solid fa-comments'></i> 评论
+  subtitle:
+  service: artalk
+  # 可选评论系统 #
+  
+  # artalk
+  # https://artalk.js.org/
+  # https://github.com/ArtalkJS/Artalk
+  artalk:
+    server: https://yours-artalk-domain    # 修改为自建的后端服务地址
+    path:  # 全局评论地址
+    placeholder: # 评论占位
+    visitor: true # 是否显示文章阅读数
+    latex: false # 启用 Latex 支持
+    # artalk 有三类图片：1.上传至服务端 2.上传至服务端后利用upgit上传至图床 3.前端上传至图床（本配置为此类）
+    # 配置此项时将覆盖服务端上传能力
+    imageUploader:
+      # 以兰空图床为例，下列填写内容为：
+      # url: 'https://xxxxxx/api/v1/upload'
+      # token: 'Bearer xxxxxxxxxxxxxx'
+      # resp: 'data.links.url'
+      api: # 图床地址
+      token: # 图床验证
+      resp: # 图片地址返回值的字段
+    # 更多置项可在 Artalk 后端进行配置，详见 https://artalk.js.org/guide/backend/fe-control.html
+    # 也可以在此处继续参考上方例子进行配置，不建议重写配置的字段除上方所述外还有：
+    # [el, useBackendConf, pageKey, pageTitle, site, darkMode, pvEl, imgUploader]
+############################### Comments ############################### > end
+
+############################### Site Footer ############################### > start
+site_footer:
+  # layout of footer: [aplayer, social, license, info, copyright]
+  layout: [source, analytics, copyright]
+  # site source
+  source: https://github.com/volantis-x/volantis-docs/
+  # analytics using busuanzi
+  analytics: >
+    <a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img height="18px" src="https://boringbay.com/api/badge/wuminboke.site"></img></a>
+  # site copyright
+  copyright: '(CC BY-NC-SA 4.0)'
+  # You can add your own property here. (Support markdown, for example: br: '<br>')
+  br: '<br>'
+############################### Site Footer ############################### > end
+
+######## Plugins to optimize the experience:
+  # prismjs
+  # https://prismjs.com/
+  # https://hexo.io/zh-cn/docs/syntax-highlight#PrismJS
+  prismjs:
+    copy_code: true
+    # Please set hexo.config.highlight.enable = false !!! set hexo.config.prismjs.enable = true !!!
+    js:
+      - https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/components/prism-core.min.js
+      - https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/plugins/line-numbers/prism-line-numbers.min.js
+    css:
+      - https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/themes/prism.min.css
+      - https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/plugins/line-numbers/prism-line-numbers.min.css
