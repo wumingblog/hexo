@@ -34,6 +34,7 @@ navbar:
     - name: 归档
       icon: fa-solid fa-archive
       url: archives/
+  search: 搜索不可用...
 ############################### Navigation Bar ############################### > end
   
 ############################### Cover ############################### > start
