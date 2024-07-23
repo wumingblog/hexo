@@ -22,9 +22,11 @@ sidebar:
 ############################### Navigation Bar ############################### > start
 # 注意事项：建议规范全站路径 URL 最后带一个 "/" 例如 "about/"
 navbar:
-  visiable: always # always, auto
+  visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    logo: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
+    img:
+    icon: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
+    title: 无名博客
   menu:
     - name: 博客
       icon: fa-solid fa-rss
