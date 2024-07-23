@@ -76,7 +76,7 @@ comments:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [source, analytics, copyright]
+  layout: [source, analytics, copyright, moe-icp]
   # site source
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using busuanzi
@@ -86,6 +86,7 @@ site_footer:
   copyright: '(CC BY-NC-SA 4.0)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
+  moe-icp: "<a href="https://icp.gov.moe/?keyword=20245354" target="_blank">萌ICP备20245354号</a>"
 ############################### Site Footer ############################### > end
 
 ######## Plugins to optimize the experience:
