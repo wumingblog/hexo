@@ -101,8 +101,15 @@ site_footer:
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using busuanzi
   analytics: >
-    <a href="http://wapmz.com/in/123"><img src="http://wapmz.com/cn/small/123" alt="wapmz.com"></a>
     <a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img height="18px" src="https://boringbay.com/api/badge/wuminboke.site"></img></a>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-V86BH77CMM"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-V86BH77CMM');
+    </script>
   # site copyright
   copyright: '(CC BY-NC-SA 4.0) (Avatar: CC BY-NC-ND 4.0)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
