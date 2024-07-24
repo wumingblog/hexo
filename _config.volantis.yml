@@ -108,6 +108,7 @@ site_footer:
   br: '<br>'
   moe-icp: "<a href=\"https://icp.gov.moe/?keyword=20235354\" target=\"_blank\">萌ICP备20235354号</a>"
   feed: "<a href=\"https://wuminboke.site/atom.xml\">Feed(Atom.xml)</a>"
+  ga: "<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-V86BH77CMM\"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag(\'config\', \'G-V86BH77CMM\');</script>"
 ############################### Site Footer ############################### > end
 
 ######## Plugins to optimize the experience:
