@@ -103,7 +103,7 @@ site_footer:
   copyright: '(CC BY-NC-SA 4.0) (Avatar: CC BY-NC-ND 4.0)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
-  moe-icp: "<a href=\"https://icp.gov.moe/?keyword=20245354\" target=\"_blank\">萌ICP备20245354号</a>"
+  moe-icp: "<a href=\"https://icp.gov.moe/?keyword=20235354\" target=\"_blank\">萌ICP备20235354号</a>"
   feed: "<a href=\"https://wuminboke.site/atom.xml\">Feed(Atom.xml)</a>"
 ############################### Site Footer ############################### > end
 
