@@ -101,6 +101,7 @@ site_footer:
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using busuanzi
   analytics: >
+    <a href="http://wapmz.com/in/123"><img src="http://wapmz.com/cn/small/123" alt="wapmz.com"></a>
     <a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img height="18px" src="https://boringbay.com/api/badge/wuminboke.site"></img></a>
   # site copyright
   copyright: '(CC BY-NC-SA 4.0) (Avatar: CC BY-NC-ND 4.0)'
