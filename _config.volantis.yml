@@ -58,6 +58,9 @@ navbar:
     - name: 归档
       icon: fa-solid fa-archive
       url: archives/
+    - name: 友链
+      icon: fa-solid fa-user-group
+      url: https://wuminboke.site/2024/07/23/Misc/#友链
     - name: 赞助
       icon: fa-brands fa-alipay
       url: https://wuminboke.site/2024/07/23/Misc/#赞助
