@@ -42,6 +42,11 @@ article:
         enable: true
         images:
           - https://bu.dusays.com/2024/07/23/669f9a2d83d4d.png #Stripe
+    
+############################# Analytics ############################# > start
+analytics:
+  busuanzi: https://npm.elemecdn.com/penndu@1.0.0/bsz.js # 修改这里即可
+############################# Analytics ############################# > end
   
 ############################### Navigation Bar ############################### > start
 # 注意事项：建议规范全站路径 URL 最后带一个 "/" 例如 "about/"
@@ -101,13 +106,8 @@ site_footer:
   # analytics using busuanzi
   analytics: >
     <a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img height="18px" src="https://boringbay.com/api/badge/wuminboke.site"></img></a>
-    <script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "k9brqm4m2x");
-    </script>
+    <span>本站总访问量为 <span id='busuanzi_value_site_pv'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 次</span>
+    <span>访客数为 <span id='busuanzi_value_site_uv'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 人</span>
   # site copyright
   copyright: '(CC BY-NC-SA 4.0) (Avatar: CC BY-NC-ND 4.0)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
@@ -129,3 +129,6 @@ site_footer:
     css:
       - https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/themes/prism.min.css
       - https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/plugins/line-numbers/prism-line-numbers.min.css
+######## Plugins for Count:
+  busuanzi:
+    enable: #true
