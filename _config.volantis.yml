@@ -12,8 +12,8 @@ sidebar:
   widget_library:
     blogger:
       class: blogger
-      display: [desktop] # [desktop, mobile]
-      avatar: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
+      display: [desktop, mobile] # [desktop, mobile]
+      avatar: https://bu.dusays.com/2024/07/28/66a6341c04222.jpg
       title: 无名博客
       subtitle: 一个无聊的人罢了~
       jinrishici: false
@@ -54,7 +54,7 @@ navbar:
   visiable: always # always, auto
   logo: # choose [img] or [icon + title]
     img:
-    icon: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
+    icon: https://bu.dusays.com/2024/07/28/66a6341c04222.jpg
     title: 无名博客
   menu:
     - name: 博客
