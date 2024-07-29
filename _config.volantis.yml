@@ -82,7 +82,7 @@ cover:
 comments:
   title: <i class='fa-solid fa-comments'></i> 评论
   subtitle:
-  service: beaudar
+  service: utterances
   # 可选评论系统 #
   
   # utterances
@@ -95,6 +95,7 @@ comments:
       light: github-light
       dark: github-dark
     label: ✨💬✨
+  ####回调不正确####
   beaudar:
     repo: wumingblog/hexo
     issue-term: pathname
