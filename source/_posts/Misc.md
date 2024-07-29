@@ -35,7 +35,10 @@ updated: '2024-07-29T18:50:35.412+08:00'
 
 [**oneLN**](https://oneln.org) 时间就是力量，你的时间就是你的力量
 
+[**xiaolong's blog**](https://xiaolong22333.top) 终究还是大梦一场
+
 以下是我的信息:
 [**无名博客**](https://wuminboke.site) 一个无聊的人罢了
 需要头像的话请使用以下图片:
 `https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg`
+
