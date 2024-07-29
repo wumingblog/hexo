@@ -5,7 +5,7 @@ date: '2024-07-23T18:50:16.926161+08:00'
 excerpt: 赞助  你可以以支付宝 微信支付 信用卡 进行赞助   所支付金额必须为HKD$5或其倍数  https://buy.stripe.com/9AQ4ij0GsdMC9nGfZ5 ...
 tags: []
 title: 杂项
-updated: '2024-07-28T20:37:35.983+08:00'
+updated: '2024-07-29T18:50:35.412+08:00'
 ---
 ![](https://bu.dusays.com/2024/07/28/66a63a0b58801.jpg)
 
@@ -33,10 +33,9 @@ updated: '2024-07-28T20:37:35.983+08:00'
 
 [**天野云塔**](https://www.3lu.cn) 年年有风  风吹年年  慢慢即漫漫
 
+[**oneLN**](https://oneln.org) 时间就是力量，你的时间就是你的力量
+
 以下是我的信息:
 [**无名博客**](https://wuminboke.site) 一个无聊的人罢了
 需要头像的话请使用以下图片:
 `https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg`
-
-
-
