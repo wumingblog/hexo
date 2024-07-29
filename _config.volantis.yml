@@ -112,7 +112,7 @@ comments:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [source, analytics, copyright, moe-icp, feed]
+  layout: [source, analytics, copyright, moe-icp, feed, js]
   # site source
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using busuanzi
@@ -126,6 +126,8 @@ site_footer:
   br: '<br>'
   moe-icp: "<a href=\"https://icp.gov.moe/?keyword=20235354\" target=\"_blank\">萌ICP备20235354号</a>"
   feed: "<a href=\"https://wuminboke.site/atom.xml\">Feed(Atom.xml)</a>"
+  js: >
+    <script>function links(){const t=document.querySelectorAll(".markdown-body a"),e=["#"],n=[{url:"github.com",tag:" - Github"},{url:"t.me",tag:" - Telegram"},{url:"wuminboke.site",tag:""}];for(let u=0;u<t.length;u++){const l=t[u],o=l.href;if(e.includes(o))continue;const i=n.find((t=>o.includes(t.url)));l.innerText+=i?i.tag:" - 站外链接"}}links();</script>
 ############################### Site Footer ############################### > end
 
 ######## Plugins to optimize the experience:
