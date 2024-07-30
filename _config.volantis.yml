@@ -83,7 +83,7 @@ cover:
     home: false
 ############################### Comments ############################### > start
 comments:
-  title: <i class='fa-solid fa-comments'></i> 评论
+  title: <i class='fa-solid fa-comments'></i> 评论 临时停用⚠
   subtitle:
   service: utterances
   # 可选评论系统 #
