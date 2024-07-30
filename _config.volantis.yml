@@ -85,31 +85,12 @@ cover:
 comments:
   title: <i class='fa-solid fa-comments'></i> 评论 临时停用⚠
   subtitle:
-  service: utterances
+  service: artalk
   # 可选评论系统 #
-  
-  # utterances
-  # https://utteranc.es/
-  utterances:
-    repo: wumingblog/hexo
-    issue-term: pathname
-    issue-number:
-    theme:
-      light: github-light
-      dark: github-dark
-    label: ✨💬✨
-  ####回调不正确####
-  beaudar:
-    repo: wumingblog/hexo
-    issue-term: pathname
-    issue-number:
-    branch: main
-    position: top
-    order: desc
-    theme:
-      light: github-light
-      dark: github-dark
-    label: ✨💬✨
+  artalk:
+    js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.js
+    css: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.css
+    server: http://146.235.62.86/
 ############################### Comments ############################### > end
 
 ############################### Site Footer ############################### > start
