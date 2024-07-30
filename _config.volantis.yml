@@ -88,8 +88,8 @@ comments:
   service: artalk
   # 可选评论系统 #
   artalk:
-    js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.1.3/Artalk.min.js
-    css: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.1.3/Artalk.min.css
+    js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.js
+    css: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.css
     server: http://146.235.62.86
 ############################### Comments ############################### > end
 
