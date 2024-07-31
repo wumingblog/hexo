@@ -1,5 +1,5 @@
 cdn_system:
-  priority: [custom, local, cdnjs, npm, static]
+  priority: [custom, cdnjs , npm]
   system_config:
     custom:
       artalk_js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.js
