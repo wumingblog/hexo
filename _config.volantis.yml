@@ -1,7 +1,7 @@
 cdn_system:
-  priority: [custom, cdnjs , npm]
+  priority: [cdnjs , npm]
   system_config:
-    custom:
+    cdnjs:
       artalk_js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.js
       artalk_css: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.css
 #Msic
