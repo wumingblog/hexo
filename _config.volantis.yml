@@ -1,9 +1,14 @@
 cdn_system:
-  priority: [custom]
+  priority: [custom, local]
   system_config:
     custom:
       artalk_js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.js
       artalk_css: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.css
+    local:
+      # CDN 链接前缀
+      prefix: ${site_root}
+      # local CDN 格式
+      format: ${prefix}${file}
 #Msic
 dns_prefetch:
   - https://cdnjs.cloudflare.com
