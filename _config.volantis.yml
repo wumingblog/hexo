@@ -1,3 +1,9 @@
+cdn_system:
+  priority: [custom, local, cdnjs, npm, static]
+  system_config:
+    custom:
+      artalk_js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.js
+      artalk_css: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.css
 #Msic
 dns_prefetch:
   - https://cdnjs.cloudflare.com
@@ -88,8 +94,6 @@ comments:
   service: artalk
   # 可选评论系统 #
   artalk:
-    js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.js
-    css: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.css
     server: https://artalk.wuminboke.site
 ############################### Comments ############################### > end
 
