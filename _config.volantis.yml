@@ -100,8 +100,6 @@ comments:
   # 可选评论系统 #
   artalk:
     server: https://artalk.wuminboke.site
-    js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.js
-    css: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.css
 ############################### Comments ############################### > end
 
 ############################### Site Footer ############################### > start
