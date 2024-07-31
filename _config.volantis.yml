@@ -1,9 +1,4 @@
-cdn_system:
-  priority: [custom, cdnjs , npm]
-  system_config:
-    custom:
-      artalk_js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.js
-      artalk_css: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.css
+
 #Msic
 dns_prefetch:
   - https://cdnjs.cloudflare.com
