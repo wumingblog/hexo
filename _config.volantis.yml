@@ -1,14 +1,8 @@
 cdn_system:
-  priority: [custom, local]
   system_config:
     custom:
       artalk_js: https://artalk.wuminboke.site/dist/Artalk.js
       artalk_css: https://artalk.wuminboke.site/dist/Artalk.css
-    local:
-      # CDN 链接前缀
-      prefix: ${site_root}
-      # local CDN 格式
-      format: ${prefix}${file}
 #Msic
 dns_prefetch:
   - https://cdnjs.cloudflare.com
