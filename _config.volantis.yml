@@ -90,7 +90,7 @@ comments:
   artalk:
     js: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.js
     css: https://cdnjs.cloudflare.com/ajax/libs/artalk/2.8.7/Artalk.min.css
-    server: http://artalk.wuminboke.site
+    server: https://artalk.wuminboke.site
 ############################### Comments ############################### > end
 
 ############################### Site Footer ############################### > start
