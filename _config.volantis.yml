@@ -68,9 +68,6 @@ navbar:
     - name: 归档
       icon: fa-solid fa-archive
       url: archives/
-    - name: 相册
-      icon: fa-solid fa-images
-      url: https://wuminboke.site/categories/相册/
     - name: 友链
       icon: fa-solid fa-user-group
       url: https://wuminboke.site/2024/07/23/Misc/#友链
