@@ -2,6 +2,10 @@
 dns_prefetch:
   - https://cdnjs.cloudflare.com
   
+import:
+  head_begin:
+    - <meta name="google-site-verification" content="0205PYtjniww98gk2Us-RgqNwNUh8YQdE4xLdaNsr44" />
+  
 sidebar:
   position: right
   # 主页、分类、归档等独立页面
