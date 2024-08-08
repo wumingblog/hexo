@@ -106,4 +106,4 @@ feed:
     - atom.xml
     - rss2.xml
     
-skip_render: ["googlee20c873c03cd2744.html"]
+skip_render: "googlee20c873c03cd2744.html"
