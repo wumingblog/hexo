@@ -87,6 +87,7 @@ comments:
   # Twikoo
   # https://twikoo.js.org/
   twikoo:
+    js: https://cdnjs.cloudflare.com/ajax/libs/twikoo/1.6.39/twikoo.min.js
     path: # 全局评论地址
     # 其他配置项按照yml格式继续填写即可 除了 [el path] 选项
     envId: https://artalk.wuminboke.site # 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
