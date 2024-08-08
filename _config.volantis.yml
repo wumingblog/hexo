@@ -5,9 +5,9 @@ dns_prefetch:
 sidebar:
   position: right
   # 主页、分类、归档等独立页面
-  for_page: [blogger, ads]
+  for_page: [blogger]
   # layout: docs/post 这类文章页面
-  for_post: [blogger, ads, toc]
+  for_post: [blogger, toc]
   
   widget_library:
     blogger:
@@ -18,15 +18,6 @@ sidebar:
       subtitle: 一个无聊的人罢了~
       jinrishici: false
       social: false
-    ads:
-      class: text
-      display: [desktop, mobile]
-      header:
-        icon: fa-brands fa-telegram
-        title: 广告
-      content:
-        - 此处广告位低价招租
-        - 查询: blogreply.education995@passinbox.com
       
 # 文章布局
 article:
