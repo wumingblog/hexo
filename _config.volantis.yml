@@ -1,8 +1,3 @@
-cdn_system:
-  system_config:
-    custom:
-      artalk_js: https://artalk.wuminboke.site/dist/Artalk.js
-      artalk_css: https://artalk.wuminboke.site/dist/Artalk.css
 #Msic
 dns_prefetch:
   - https://cdnjs.cloudflare.com
@@ -85,12 +80,18 @@ cover:
     home: false
 ############################### Comments ############################### > start
 comments:
-  title: <i class='fa-solid fa-comments'></i> 评论暂时停用⛔ 查询:blogreply.education995@passinbox.com
+  title: <i class='fa-solid fa-comments'></i> 评论 📌查询:blogreply.education995@passinbox.com
   subtitle:
   service: artalk
   # 可选评论系统 #
-  artalk:
-    server: https://artalk.wuminboke.site
+  # Twikoo
+  # https://twikoo.js.org/
+  twikoo:
+    path: # 全局评论地址
+    # 其他配置项按照yml格式继续填写即可 除了 [el path] 选项
+    envId: https://artalk.wuminboke.site # 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
+    placeholder: #全局评论占位，也可以在管理面板中的配置管理处设置（此处优先级更高）
+    visitor: true # 是否显示文章阅读数
 ############################### Comments ############################### > end
 
 ############################### Site Footer ############################### > start
