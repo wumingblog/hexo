@@ -1,2 +1,4 @@
+layout: false
+---
 User-agent: *
 Disallow:
