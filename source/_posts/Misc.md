@@ -28,4 +28,7 @@ updated: '2024-08-08T13:58:31.412+08:00'
 [**无名博客**](https://wuminboke.site) 一个无聊的人罢了
 需要头像的话请使用以下图片:
 `https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg`
+``` json
+{名称:"无名博客",简介:"一个无聊的人罢了",链接:"https://wuminboke.site"}
+```
 
