@@ -21,23 +21,8 @@ updated: '2024-08-08T13:58:31.412+08:00'
 
 ## 友链
 
-[**废柴笔记**](https://sao.ren) 无简介...
-
-[**iCKG 渝见**](https://www.ickg.net) 我和重庆有个约会
-
-[**绾秋小站**](https://www.gx.gx.cn) 用文字记录生活
-
-[**茶哥**](https://cha.ge) 代码是工作，品茶是生活
-
-[**Bzi**](https://bzi.me) 恰饭，睡觉，瞎折腾！
-
-[**天野云塔**](https://www.3lu.cn) 年年有风  风吹年年  慢慢即漫漫
-
-[**oneLN**](https://oneln.org) 时间就是力量，你的时间就是你的力量
-
-[**xiaolong's blog**](https://xiaolong22333.top) 终究还是大梦一场
-
-[**萬事屋**](https://rjjr.cn) 每天写下自己的喜好
+<span id="table"></span>
+<script> var jsonTableData=[{名称:"废柴笔记",简介:"无简介...",链接:"https://sao.ren"},{名称:"iCKG 渝见",简介:"我和重庆有个约会",链接:"https://www.ickg.net"},{名称:"绾秋小站",简介:"用文字记录生活",链接:"https://www.gx.gx.cn"},{名称:"茶哥",简介:"代码是工作，品茶是生活",链接:"https://cha.ge"},{名称:"Bzi",简介:"恰饭，睡觉，瞎折腾！",链接:"https://bzi.me"},{名称:"天野云塔",简介:"年年有风 风吹年年 慢慢即漫漫",链接:"https://www.3lu.cn"},{名称:"oneLN",简介:"时间就是力量，你的时间就是你的力量",链接:"https://oneln.org"},{名称:"xiaolong's blog",简介:"终究还是大梦一场",链接:"https://xiaolong22333.top"},{名称:"萬事屋",简介:"每天写下自己的喜好",链接:"https://rjjr.cn"}];function convertToHTML(t){let n="";for(let e of t)n+=`<p><a target="_blank" rel="noopener" href="${e.链接}"><strong>${e.名称}</strong></a> ${e.简介?e.简介:"无简介..."}</p>`;return n}jsonTableData.sort(()=>Math.random()-.5);var tableContainer=document.getElementById("table");tableContainer.innerHTML=convertToHTML(jsonTableData);</script>
 
 以下是我的信息:
 [**无名博客**](https://wuminboke.site) 一个无聊的人罢了
